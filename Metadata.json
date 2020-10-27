@@ -1,7 +1,7 @@
 {
     "Author": "Michael GEYER",
     "ContentSize": 3700,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-all-virtual-machines-in-a-subscription-(not-deallocated-included)/master/StopAzureVMAll.py",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-all-virtual-machines-in-a-subscription--not-deallocated-included-/master/StopAzureVMAll.py",
     "DownloadCount": 925,
     "Id": "Stops-All-virtual-machines-9c969362",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Stop Azure resource manager virtual machines in a subscription. An Azure Automation RunAs account is required for this runbook.",
     "Title": "Stop All virtual machines in a subscription (not deallocated included)",
     "UpdatedDate": "2019-4-11T00:00:00",
-    "Url": "https://github.com/azureautomation/stop-all-virtual-machines-in-a-subscription-(not-deallocated-included)",
+    "Url": "https://github.com/azureautomation/stop-all-virtual-machines-in-a-subscription--not-deallocated-included-",
     "UserTags": "Azure Automation, Azure Virtual Machines"
 }
